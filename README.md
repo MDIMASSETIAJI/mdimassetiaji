@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dimas Setiaji</h1>
 <h3 align="center">Machine learning Engineer 💻</h3>
 
+- 🇮🇩 Indonesia
+
 - 🎓 **UPN 'Veteran' Yogyakarta**
 
 - 📚 **dicoding.com**
-
-- ✉️ **setiaji2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
