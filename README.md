@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dimas Setiaji</h1>
-<h3 align="center">manusia ngantukkan</h3>
+<h3 align="center">Machine learning Eingeneer</h3>
+
+- 🎓 **UPN 'Veteran' Yogyakarta**
+
+- 💻 **Informatics**
+
+- 📚 **dicoding.com**
+
+- ✉️ **setiaji2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
