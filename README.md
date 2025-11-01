@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Dimas Setiaji</h1>
-<h3 align="center">Machine learning Engineer 💻</h3>
+<h3 align="center">Machine learning 💻</h3>
 
 - 🎓 **UPN 'Veteran' Yogyakarta**
 
